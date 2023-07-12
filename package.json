@@ -1,0 +1,19 @@
+{
+  "name": "guiahoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyect de Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan4368/GuiaHoteles.git"
+  },
+  "author": "Juan Fernando velez varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan4368/GuiaHoteles/issues"
+  },
+  "homepage": "https://github.com/Juan4368/GuiaHoteles#readme"
+}
